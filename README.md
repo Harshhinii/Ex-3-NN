@@ -105,7 +105,8 @@ plt.show()
 ```
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/4a4cc178-37fa-4c9b-8b52-4e01e0fa0df7)
+
+![Screenshot 2025-04-21 125323](https://github.com/user-attachments/assets/a612e6f6-07af-4d0c-90d8-2b81b1e3857c)
 
 
 <H3> Result:</H3>
